@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Harun\calculatorApp\bin\Debug\calculatorApp.exe.config
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.Form1.resources
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\calculatorApp\bin\Debug\calculatorApp.exe
+C:\Users\PC21\Desktop\Harun\calculatorApp\bin\Debug\calculatorApp.pdb
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.exe
+C:\Users\PC21\Desktop\Harun\calculatorApp\obj\Debug\calculatorApp.pdb
